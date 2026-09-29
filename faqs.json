@@ -1,0 +1,20 @@
+[
+  {"question": "What are the college working hours?", "answer": "The college working hours are from 8:30 AM to 4:30 PM, Monday to Friday."},
+  {"question": "When does the semester start?", "answer": "The odd semester starts in the first week of July and the even semester starts in the first week of January."},
+  {"question": "When do the semester exams take place?", "answer": "Semester exams are held in November and April. The detailed timetable is published on the notice board and the student portal two weeks before."},
+  {"question": "How can I apply for admission?", "answer": "Fill in the online application form on the college website, upload your marksheets and ID proof, and pay the application fee."},
+  {"question": "What documents are required for admission?", "answer": "You need your 10th and 12th marksheets, transfer certificate, ID proof, community certificate (if applicable) and four passport-size photos."},
+  {"question": "What is the fee structure?", "answer": "Fees vary by course. Please check the Fees section of the college website or contact the accounts office for the exact amount."},
+  {"question": "How do I pay my tuition fees?", "answer": "Fees can be paid online through the student portal using UPI, net banking or cards, or in person at the accounts office."},
+  {"question": "Are scholarships available?", "answer": "Yes. Merit-based, government and need-based scholarships are available. Apply through the scholarship cell before the deadline."},
+  {"question": "Does the college have a hostel?", "answer": "Yes, separate hostels for boys and girls are available on campus with mess facilities and Wi-Fi."},
+  {"question": "Is there a library and what are its timings?", "answer": "The library is open from 8:00 AM to 6:00 PM on weekdays and 9:00 AM to 1:00 PM on Saturdays."},
+  {"question": "How can I get my ID card?", "answer": "Collect your ID card from the administrative office after fee payment. Bring your admission receipt and one photo."},
+  {"question": "What is the minimum attendance required?", "answer": "Students must maintain at least 75% attendance to be eligible for semester exams."},
+  {"question": "Does the college offer placement support?", "answer": "Yes. The placement cell arranges training, mock interviews and campus drives with many recruiting companies every year."},
+  {"question": "Which courses are offered?", "answer": "The college offers undergraduate and postgraduate programs in engineering, science, commerce and arts. See the Courses page for the full list."},
+  {"question": "How do I contact the administrative office?", "answer": "You can reach the administrative office at admin@college.edu or call 044-0000-0000 during working hours."},
+  {"question": "Is there a bus facility?", "answer": "Yes. College buses run on major city routes. Register for a bus pass at the transport office."},
+  {"question": "Does the college have Wi-Fi?", "answer": "Yes, campus-wide Wi-Fi is available. Log in with your student ID and the password issued by the IT department."},
+  {"question": "How can I get a bonafide or transfer certificate?", "answer": "Submit a request at the administrative office or through the student portal. It is usually issued within 3 working days."}
+]
