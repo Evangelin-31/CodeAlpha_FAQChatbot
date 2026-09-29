@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>College FAQ Assistant</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main class="chat">
+    <header>
+      <h1>College FAQ Assistant</h1>
+      <p>Ask about timings, admissions, fees, exams and more.</p>
+    </header>
+
+    <section id="messages" aria-live="polite">
+      <div class="msg bot">Hi! What would you like to know about the college?</div>
+    </section>
+
+    <div class="chips" id="chips">
+      {% for s in samples %}<button type="button" class="chip">{{ s }}</button>{% endfor %}
+    </div>
+
+    <div class="composer">
+      <input id="input" type="text" placeholder="Type your question" autocomplete="off" aria-label="Your question">
+      <button id="send" type="button">Send</button>
+    </div>
+  </main>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
